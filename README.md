@@ -160,6 +160,7 @@ Para quem deseja ingressar, recomenda-se começar com **projetos simples**, como
 
 **Prompt:**
 Quais são os maiores desafios para quem quer entrar na área de desenvolvimento de jogos atualmente? Considere mercado, estudo e prática.
+
 👉 Resultado:
 Entrar na área de desenvolvimento de jogos atualmente apresenta desafios significativos que vão desde a saturação de informações no estudo até a complexidade de se posicionar em um mercado competitivo.
 
@@ -183,6 +184,7 @@ Abaixo, os principais desafios divididos por categorias:
 
 🔹 Prompt 5 (Aplicação prática)
 Se eu fosse iniciante hoje, quais seriam os primeiros passos para começar no desenvolvimento de jogos? Crie um plano de estudo simples.
+
 👉 Resultado:
 Se você deseja começar no desenvolvimento de jogos hoje, o caminho ideal envolve equilibrar o aprendizado técnico com a prática imediata em projetos pequenos. Com base nas fontes, aqui estão os primeiros passos e um plano de estudo simples para guiar sua jornada:
 
