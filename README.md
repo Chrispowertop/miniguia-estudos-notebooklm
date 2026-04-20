@@ -189,6 +189,7 @@ Abaixo, os principais desafios divididos por categorias:
 Se eu fosse iniciante hoje, quais seriam os primeiros passos para começar no desenvolvimento de jogos? Crie um plano de estudo simples.
 
 **👉 Resultado:**
+
 Se você deseja começar no desenvolvimento de jogos hoje, o caminho ideal envolve equilibrar o aprendizado técnico com a prática imediata em projetos pequenos. Com base nas fontes, aqui estão os primeiros passos e um plano de estudo simples para guiar sua jornada:
 
 ### Primeiros Passos: Mudança de Mentalidade
